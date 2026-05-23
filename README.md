@@ -1,5 +1,7 @@
 [Agenty AI](https://agenty.com/) exposes a Model Context Protocol (MCP) server that gives AI assistants like Claude, Cursor, and any MCP-compatible client direct access to browser automation tools. You can capture screenshots, generate PDFs, scrape web pages, extract structured data, convert pages to Markdown and more using LLM models
 
+![Agenty Logo](https://agenty.com/og.png)
+
 In this article, I will covers how to connect to the Agenty's MCP server and how to use each available tool.
 
 ## Prerequisites
