@@ -2,7 +2,7 @@
 
 ![Agenty Logo](https://agenty.com/og.png)
 
-In this article, I will covers how to connect to the Agenty's MCP server and how to use each available tool.
+In this article, I will covers how to connect to the [Agenty's MCP server](https://agenty.com/docs/mcp-server-web-scraping-automation-with-ai/536) and how to use each available tool.
 
 ## Prerequisites
 
